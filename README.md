@@ -32,6 +32,7 @@ Also check out these resources:
 * Paul Johnson. [The topology of Hilbert schemes of points on orbifolds](http://paul-johnson.staff.shef.ac.uk/Talks/TopGHilbImperial.pdf).
 * Manfred Lehn. [Lectures on Hilbert schemes](http://www.mathematik.uni-mainz.de/Members/lehn/ar/montreal.ps).
 * Daniel Litt. [The Hilbert scheme of points on a surface](http://math.stanford.edu/~dlitt/exposnotes/hilbertpoints.pdf).
+* Diane Maclagan. [Notes on Hilbert schemes](https://homepages.warwick.ac.uk/staff/D.Maclagan/papers/HilbertSchemesNotes.pdf).
 * Emanuele Macrì. [Introduction to Hilbert schemes – exercises](http://nuweb15.neu.edu/emacri/HilbertSchemesExercises.pdf).
 * Hiraku Nakajima. Lectures on Hilbert schemes of points on surfaces.
 * Andrei Okounkov. [Problems for lecture I and II at the Andrejewski Day 2013](http://www.math.uni-augsburg.de/andrejewski-2013/program.html).
