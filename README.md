@@ -1,7 +1,7 @@
 # talk-hilbert-schemes
 A one-parsec overview of the Hilbert scheme of points
 
-![The Hilbert scheme of (three) points on a surface][hilbert-scheme-of-points.png]
+![The Hilbert scheme of (three) points on a surface](hilbert-scheme-of-points.png)
 
 Given a geometric object X, the Hilbert scheme X^{[n]} is the fine
 moduli space of unordered collections of n points in X. If X is a
@@ -22,7 +22,7 @@ Euler characteristics using fixed point methods, Young diagrams for
 partitions, and creation and annihilation operators from quantum
 mechanics.
 
-*See [the hand-written notes](notes.pdf) (six pages).*
+**See [the hand-written notes](notes.pdf) (six pages).**
 
 Also check out these resources:
 
@@ -37,3 +37,5 @@ Also check out these resources:
 * Hiraku Nakajima. Lectures on Hilbert schemes of points on surfaces.
 * Andrei Okounkov. [Problems for lecture I and II at the Andrejewski Day 2013](http://www.math.uni-augsburg.de/andrejewski-2013/program.html).
 * Brendan Pawlowski. [Torus actions and maximal tori, part 2](http://chromotopy.org/torus-actions-maximal-tori-2).
+
+The drawing is by Carina Willbold (CC BY SA).
