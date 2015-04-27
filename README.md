@@ -1,5 +1,4 @@
-# talk-hilbert-schemes
-A one-parsec overview of the Hilbert scheme of points
+# A one-parsec overview of the Hilbert scheme of points
 
 ![The Hilbert scheme of (three) points on a surface](hilbert-scheme-of-points.png)
 
