@@ -22,7 +22,7 @@ Euler characteristics using fixed point methods, Young diagrams for
 partitions, and creation and annihilation operators from quantum
 mechanics.
 
-**See [the hand-written notes](notes.pdf) (six pages).**
+**See [the handwritten notes](notes.pdf) (six pages).**
 
 Also check out these resources:
 
