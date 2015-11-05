@@ -25,7 +25,7 @@ mechanics.
 
 Also check out these resources:
 
-* Dori Bejleri. [Hilbert schemes: geometry, combinatorics, and representation theory](www.math.brown.edu/~dbejleri/Hilbert%2520Schemes%2520-%2520Grad%2520Student%2520Seminar.pdf).
+* Dori Bejleri. [Hilbert schemes: geometry, combinatorics, and representation theory](http://www.math.brown.edu/~dbejleri/Hilbert%2520Schemes%2520-%2520Grad%2520Student%2520Seminar.pdf).
 * José Bertin. [The punctual Hilbert scheme: an introduction](https://www-fourier.ujf-grenoble.fr/sites/ifmaquette.ujf-grenoble.fr/files/bertin_rev.pdf).
 * Tristan Bozec. [Homological study of some Hilbert schemes](http://www.math.u-psud.fr/~merker/CMI-ENS-Exchange/2010/expose-bozec.pdf).
 * Mark Haiman. [Notes on Macdonald polynomials and the geometry of Hilbert schemes](https://math.berkeley.edu/~mhaiman/ftp/newt-sf-2001/newt.pdf).
