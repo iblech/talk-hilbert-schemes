@@ -25,12 +25,12 @@ mechanics.
 
 Also check out these resources:
 
-* Dori Bejleri. [Hilbert schemes: geometry, combinatorics, and representation theory](http://www.math.brown.edu/~dbejleri/Hilbert%2520Schemes%2520-%2520Grad%2520Student%2520Seminar.pdf).
+* Dori Bejleri. [Hilbert schemes: geometry, combinatorics, and representation theory](http://www.math.brown.edu/~dbejleri/Hilbert%20Schemes%20-%20Grad%20Student%20Seminar.pdf).
 * José Bertin. [The punctual Hilbert scheme: an introduction](https://www-fourier.ujf-grenoble.fr/sites/ifmaquette.ujf-grenoble.fr/files/bertin_rev.pdf).
 * Tristan Bozec. [Homological study of some Hilbert schemes](http://www.math.u-psud.fr/~merker/CMI-ENS-Exchange/2010/expose-bozec.pdf).
 * Mark Haiman. [Notes on Macdonald polynomials and the geometry of Hilbert schemes](https://math.berkeley.edu/~mhaiman/ftp/newt-sf-2001/newt.pdf).
 * Paul Johnson. [The topology of Hilbert schemes of points on orbifolds](http://paul-johnson.staff.shef.ac.uk/Talks/TopGHilbImperial.pdf).
-* Manfred Lehn. [Lectures on Hilbert schemes](http://www.mathematik.uni-mainz.de/Members/lehn/ar/montreal.ps).
+* Manfred Lehn. [Lectures on Hilbert schemes](http://www.alt.mathematik.uni-mainz.de/Members/lehn/ar/montreal.ps).
 * Daniel Litt. [The Hilbert scheme of points on a surface](http://math.stanford.edu/~dlitt/exposnotes/hilbertpoints.pdf).
 * Diane Maclagan. [Notes on Hilbert schemes](https://homepages.warwick.ac.uk/staff/D.Maclagan/papers/HilbertSchemesNotes.pdf).
 * Emanuele Macrì. [Introduction to Hilbert schemes – exercises](http://nuweb15.neu.edu/emacri/HilbertSchemesExercises.pdf).
